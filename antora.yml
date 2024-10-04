@@ -1,0 +1,10 @@
+name: component-example
+title: Component Example
+version: ~
+start_page: index.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+  - modules/ROOT/nav.adoc
